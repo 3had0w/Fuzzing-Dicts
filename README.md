@@ -7,4 +7,4 @@ https://weakpass.com
 
 https://github.com/danielmiessler/SecLists
 
-欢迎大家补充！
+期待大家补充更多优质字典！
