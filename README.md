@@ -1,5 +1,5 @@
 # Blasting-Dictionary：
-常用爆破字典，包括网站后台、文件包含、一句话密码、常用管理员用户名及密码等等！
+Web安全测试中常用的爆破字典，包括网站后台、文件包含、WebShell密码、常用管理员用户名及密码等等！
 
 # Others Dictionary Project：
 https://weakpass.com
