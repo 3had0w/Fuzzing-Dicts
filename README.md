@@ -3,5 +3,4 @@
 
 # 其它密码字典项目地址：
 https://weakpass.com
-
 https://github.com/danielmiessler/SecLists
