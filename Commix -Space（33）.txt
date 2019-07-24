@@ -31,3 +31,11 @@ _
 ,
 {IFS}
 $IFS$9
+%COMMONPROGRAMFILES:~23,-5%
+%ProgramFiles:~10,-5%
+%CommonProgramFiles:~10,-18%
+%COMMONPROGRAMFILES:~23,1%
+%ProgramFiles:~10,1%
+%CommonProgramFiles:~10,1%
+%path:~10,1%
+%PROCESSOR_IDENTIFIER:~7,1%
