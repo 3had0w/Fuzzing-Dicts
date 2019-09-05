@@ -7,6 +7,4 @@
 感谢前辈们的无私奉献，也期待大家补充更多优质字典！
 
 # 关注我们：
-* 致力于网络攻防技术的研究和分享！
-
 ![betaseclab](./betaseclab.jpg "betaseclab")
