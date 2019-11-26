@@ -20098,3 +20098,4 @@ t
 /points-admin
 /adminkongbao10000
 /admin/main/index
+/cz_admin
